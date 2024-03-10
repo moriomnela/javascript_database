@@ -1,0 +1,1 @@
+git remote add origin https://github.com/moriomnela/javascript_database.git
